@@ -1,0 +1,13 @@
+{
+  "name": "logically-prototype",
+  "description": "JavaScript Logically Prototype.",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "ignoreChanges": [
+    "ignored-file",
+    "**/__tests__/**",
+    "**/*.md"
+  ]
+}

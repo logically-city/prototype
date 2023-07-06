@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "description": "Logically prototype string.",
   "keywords": [
-    "typescript"
+    "typescript",
+    "logically",
+    "prototype",
+    "string"
   ],
   "author": {
     "name": "City",

@@ -1,6 +1,6 @@
 {
   "name": "@logically/prototype-string",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Logically prototype string.",
   "keywords": [
     "typescript",

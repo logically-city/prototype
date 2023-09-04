@@ -32,7 +32,7 @@
     "dev": "lough-build dev"
   },
   "dependencies": {
-    "@logically/types": "^0.0.0"
+    "@logically/types": "^0.1.0"
   },
   "devDependencies": {
     "@lough/build-cli": "^0.2.0"

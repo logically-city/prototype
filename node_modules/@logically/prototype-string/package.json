@@ -29,7 +29,8 @@
   "scripts": {
     "prepublishOnly": "npm run build",
     "build": "lough-build",
-    "dev": "lough-build dev"
+    "dev": "lough-build dev",
+    "test": "jest"
   },
   "dependencies": {
     "@logically/types": "^0.1.0"
